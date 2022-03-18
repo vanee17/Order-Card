@@ -79,8 +79,11 @@ button:hover{
 }
 
 @media (min-width:320px) and (max-width:480px) {
+    body{
+        width: 100%;
+    }
     .tarjeta {
-        width: 300px;
+        width: 100%;
         background-color: whitesmoke;
         text-align: center;
         position: relative;
