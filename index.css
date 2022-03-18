@@ -78,9 +78,9 @@ button:hover{
     padding-top:10px;
 }
 
-@media (min-width:400px) and (max-width:640px) {
+@media (min-width:320px) and (max-width:480px) {
     .tarjeta {
-        width: 340px;
+        width: 300px;
         background-color: whitesmoke;
         text-align: center;
         position: relative;
