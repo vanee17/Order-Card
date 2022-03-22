@@ -91,11 +91,11 @@ button:hover{
     }
     .tarjeta{
         width: 350px;
-        height: 640px;
+        height: 620px;
         background-color: whitesmoke;
         text-align: center;
         position: relative;
-        margin: 1% auto 0% auto;
+        margin: 25% auto 0% auto;
         border-radius: 7%;
         box-shadow: 10px 5px 5px rgba(53, 50, 50, 0.616);
     }
@@ -111,7 +111,6 @@ button:hover{
         padding: 0px 45px 0px 45px;
     }
     .image_media{
-        width: 30px;
         margin-left: 5px !important;
     }
     h3{
@@ -129,7 +128,7 @@ button:hover{
         padding: 0.5px 3px;
         font-family: 'Baloo 2', cursive;
         margin: 22px 35px;
-        width: 250px;
+        width: 280px;
         height: 90px;
     }
     h1{
